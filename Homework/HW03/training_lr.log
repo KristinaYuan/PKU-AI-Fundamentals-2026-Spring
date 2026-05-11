@@ -1,0 +1,101 @@
+MLU is not available, use GPU/CPU instead.
+Epoch [1/25], Step [100/391], Loss: 1.9459, Accuracy: 26.56%
+Epoch [1/25], Step [200/391], Loss: 1.6998, Accuracy: 39.06%
+Epoch [1/25], Step [300/391], Loss: 1.7969, Accuracy: 30.47%
+=====> Epoch [1/25] Summary - Train Accuracy: 35.30%, Test Accuracy: 42.78% <=====
+Epoch [2/25], Step [100/391], Loss: 1.6805, Accuracy: 39.84%
+Epoch [2/25], Step [200/391], Loss: 1.4439, Accuracy: 49.22%
+Epoch [2/25], Step [300/391], Loss: 1.5168, Accuracy: 43.75%
+=====> Epoch [2/25] Summary - Train Accuracy: 45.07%, Test Accuracy: 51.82% <=====
+Epoch [3/25], Step [100/391], Loss: 1.5006, Accuracy: 38.28%
+Epoch [3/25], Step [200/391], Loss: 1.3409, Accuracy: 50.78%
+Epoch [3/25], Step [300/391], Loss: 1.2689, Accuracy: 55.47%
+=====> Epoch [3/25] Summary - Train Accuracy: 49.12%, Test Accuracy: 52.20% <=====
+Epoch [4/25], Step [100/391], Loss: 1.4894, Accuracy: 46.88%
+Epoch [4/25], Step [200/391], Loss: 1.3658, Accuracy: 50.00%
+Epoch [4/25], Step [300/391], Loss: 1.2929, Accuracy: 53.91%
+=====> Epoch [4/25] Summary - Train Accuracy: 51.28%, Test Accuracy: 54.53% <=====
+Epoch [5/25], Step [100/391], Loss: 1.3587, Accuracy: 50.00%
+Epoch [5/25], Step [200/391], Loss: 1.3357, Accuracy: 53.12%
+Epoch [5/25], Step [300/391], Loss: 1.3722, Accuracy: 49.22%
+=====> Epoch [5/25] Summary - Train Accuracy: 52.98%, Test Accuracy: 55.81% <=====
+Epoch [6/25], Step [100/391], Loss: 1.0748, Accuracy: 56.25%
+Epoch [6/25], Step [200/391], Loss: 1.3260, Accuracy: 55.47%
+Epoch [6/25], Step [300/391], Loss: 1.2766, Accuracy: 56.25%
+=====> Epoch [6/25] Summary - Train Accuracy: 54.43%, Test Accuracy: 58.88% <=====
+Epoch [7/25], Step [100/391], Loss: 1.2291, Accuracy: 57.81%
+Epoch [7/25], Step [200/391], Loss: 1.3277, Accuracy: 48.44%
+Epoch [7/25], Step [300/391], Loss: 1.2775, Accuracy: 50.78%
+=====> Epoch [7/25] Summary - Train Accuracy: 56.13%, Test Accuracy: 59.25% <=====
+Epoch [8/25], Step [100/391], Loss: 1.1842, Accuracy: 59.38%
+Epoch [8/25], Step [200/391], Loss: 1.1540, Accuracy: 58.59%
+Epoch [8/25], Step [300/391], Loss: 1.2318, Accuracy: 54.69%
+=====> Epoch [8/25] Summary - Train Accuracy: 56.96%, Test Accuracy: 61.29% <=====
+Epoch [9/25], Step [100/391], Loss: 1.0350, Accuracy: 61.72%
+Epoch [9/25], Step [200/391], Loss: 1.0161, Accuracy: 57.03%
+Epoch [9/25], Step [300/391], Loss: 0.9899, Accuracy: 63.28%
+=====> Epoch [9/25] Summary - Train Accuracy: 58.00%, Test Accuracy: 58.81% <=====
+Epoch [10/25], Step [100/391], Loss: 1.2769, Accuracy: 51.56%
+Epoch [10/25], Step [200/391], Loss: 1.3310, Accuracy: 50.78%
+Epoch [10/25], Step [300/391], Loss: 1.2975, Accuracy: 51.56%
+=====> Epoch [10/25] Summary - Train Accuracy: 58.21%, Test Accuracy: 63.22% <=====
+Epoch [11/25], Step [100/391], Loss: 1.2506, Accuracy: 56.25%
+Epoch [11/25], Step [200/391], Loss: 1.1841, Accuracy: 56.25%
+Epoch [11/25], Step [300/391], Loss: 1.1937, Accuracy: 56.25%
+=====> Epoch [11/25] Summary - Train Accuracy: 59.14%, Test Accuracy: 62.10% <=====
+Epoch [12/25], Step [100/391], Loss: 1.2257, Accuracy: 53.12%
+Epoch [12/25], Step [200/391], Loss: 0.9768, Accuracy: 69.53%
+Epoch [12/25], Step [300/391], Loss: 1.0064, Accuracy: 68.75%
+=====> Epoch [12/25] Summary - Train Accuracy: 59.59%, Test Accuracy: 64.86% <=====
+Epoch [13/25], Step [100/391], Loss: 1.2195, Accuracy: 54.69%
+Epoch [13/25], Step [200/391], Loss: 1.1535, Accuracy: 64.06%
+Epoch [13/25], Step [300/391], Loss: 1.1591, Accuracy: 61.72%
+=====> Epoch [13/25] Summary - Train Accuracy: 60.10%, Test Accuracy: 63.94% <=====
+Epoch [14/25], Step [100/391], Loss: 1.0158, Accuracy: 67.97%
+Epoch [14/25], Step [200/391], Loss: 1.1223, Accuracy: 63.28%
+Epoch [14/25], Step [300/391], Loss: 1.1046, Accuracy: 57.81%
+=====> Epoch [14/25] Summary - Train Accuracy: 60.86%, Test Accuracy: 63.94% <=====
+Epoch [15/25], Step [100/391], Loss: 1.1662, Accuracy: 60.16%
+Epoch [15/25], Step [200/391], Loss: 1.0585, Accuracy: 58.59%
+Epoch [15/25], Step [300/391], Loss: 1.0668, Accuracy: 62.50%
+=====> Epoch [15/25] Summary - Train Accuracy: 61.14%, Test Accuracy: 62.49% <=====
+Epoch [16/25], Step [100/391], Loss: 1.1181, Accuracy: 62.50%
+Epoch [16/25], Step [200/391], Loss: 1.0065, Accuracy: 65.62%
+Epoch [16/25], Step [300/391], Loss: 1.1139, Accuracy: 57.81%
+=====> Epoch [16/25] Summary - Train Accuracy: 61.66%, Test Accuracy: 64.84% <=====
+Epoch [17/25], Step [100/391], Loss: 1.0420, Accuracy: 63.28%
+Epoch [17/25], Step [200/391], Loss: 1.0701, Accuracy: 58.59%
+Epoch [17/25], Step [300/391], Loss: 1.1452, Accuracy: 60.16%
+=====> Epoch [17/25] Summary - Train Accuracy: 61.83%, Test Accuracy: 63.92% <=====
+Epoch [18/25], Step [100/391], Loss: 1.0497, Accuracy: 62.50%
+Epoch [18/25], Step [200/391], Loss: 1.1113, Accuracy: 60.94%
+Epoch [18/25], Step [300/391], Loss: 0.9827, Accuracy: 66.41%
+=====> Epoch [18/25] Summary - Train Accuracy: 62.19%, Test Accuracy: 64.61% <=====
+Epoch [19/25], Step [100/391], Loss: 1.2204, Accuracy: 54.69%
+Epoch [19/25], Step [200/391], Loss: 1.0119, Accuracy: 64.06%
+Epoch [19/25], Step [300/391], Loss: 0.9824, Accuracy: 67.97%
+=====> Epoch [19/25] Summary - Train Accuracy: 62.37%, Test Accuracy: 64.25% <=====
+Epoch [20/25], Step [100/391], Loss: 1.1261, Accuracy: 60.16%
+Epoch [20/25], Step [200/391], Loss: 0.8840, Accuracy: 70.31%
+Epoch [20/25], Step [300/391], Loss: 1.1146, Accuracy: 60.16%
+=====> Epoch [20/25] Summary - Train Accuracy: 62.80%, Test Accuracy: 65.80% <=====
+Epoch [21/25], Step [100/391], Loss: 1.2076, Accuracy: 54.69%
+Epoch [21/25], Step [200/391], Loss: 1.0183, Accuracy: 65.62%
+Epoch [21/25], Step [300/391], Loss: 0.9949, Accuracy: 64.84%
+=====> Epoch [21/25] Summary - Train Accuracy: 63.22%, Test Accuracy: 65.84% <=====
+Epoch [22/25], Step [100/391], Loss: 1.1169, Accuracy: 62.50%
+Epoch [22/25], Step [200/391], Loss: 1.0285, Accuracy: 58.59%
+Epoch [22/25], Step [300/391], Loss: 1.1722, Accuracy: 58.59%
+=====> Epoch [22/25] Summary - Train Accuracy: 63.05%, Test Accuracy: 66.37% <=====
+Epoch [23/25], Step [100/391], Loss: 1.0534, Accuracy: 57.81%
+Epoch [23/25], Step [200/391], Loss: 1.0799, Accuracy: 60.16%
+Epoch [23/25], Step [300/391], Loss: 1.1199, Accuracy: 60.94%
+=====> Epoch [23/25] Summary - Train Accuracy: 63.30%, Test Accuracy: 66.71% <=====
+Epoch [24/25], Step [100/391], Loss: 0.9507, Accuracy: 64.06%
+Epoch [24/25], Step [200/391], Loss: 1.2034, Accuracy: 56.25%
+Epoch [24/25], Step [300/391], Loss: 0.9651, Accuracy: 63.28%
+=====> Epoch [24/25] Summary - Train Accuracy: 63.34%, Test Accuracy: 63.29% <=====
+Epoch [25/25], Step [100/391], Loss: 1.1203, Accuracy: 58.59%
+Epoch [25/25], Step [200/391], Loss: 0.9298, Accuracy: 67.19%
+Epoch [25/25], Step [300/391], Loss: 1.0248, Accuracy: 64.84%
+=====> Epoch [25/25] Summary - Train Accuracy: 63.72%, Test Accuracy: 66.18% <=====
