@@ -1,0 +1,25 @@
+Using device: cuda:0
+Using batch size: 8
+Using dataloader workers: 16
+Epoch: 1, Train loss: 5.045, Val loss: 4.229, Max memory: 3383.1 MB, Epoch time = 3154.478s
+ I are working to work with a model of the Senate ’s data to the Senate . 
+Epoch: 2, Train loss: 3.944, Val loss: 3.533, Max memory: 3383.1 MB, Epoch time = 3169.101s
+ I was training a model from the dictator to the dictator of Kim . 
+Epoch: 3, Train loss: 3.635, Val loss: 3.493, Max memory: 3383.1 MB, Epoch time = 3167.945s
+ I was training a model from his own - style - based - on - the - hand -
+Epoch: 4, Train loss: 3.620, Val loss: 3.441, Max memory: 3383.1 MB, Epoch time = 3146.342s
+ I are training a machine model from the British - British - British - British machine . 
+Epoch: 5, Train loss: 3.576, Val loss: 3.394, Max memory: 3383.1 MB, Epoch time = 3161.794s
+ I was training a machine - to - British machine from China to the British , to the British
+Epoch: 6, Train loss: 3.539, Val loss: 3.365, Max memory: 3383.1 MB, Epoch time = 3156.749s
+ I was training a machine model from China to the British English . 
+Epoch: 7, Train loss: 3.500, Val loss: 3.336, Max memory: 3383.1 MB, Epoch time = 3167.796s
+ I are training a model of machine - is a model from China to the English . 
+Epoch: 8, Train loss: 3.460, Val loss: 3.300, Max memory: 3383.1 MB, Epoch time = 3159.881s
+ I was training a model for machine - - - state , from China to English . 
+Epoch: 9, Train loss: 3.412, Val loss: 3.274, Max memory: 3383.1 MB, Epoch time = 3182.933s
+ I was training an model of machine - - - - - - - - - - - -
+Epoch: 10, Train loss: 3.372, Val loss: 3.240, Max memory: 3383.1 MB, Epoch time = 3162.518s
+ I was training an pattern of machine - The English - English machine . 
+Training log saved to /content/drive/Othercomputers/我的笔记本电脑/GitHub/PKU-AI-Fundamentals-2026-Spring/Homework/HW04/log/zh2en/20260607_132946.csv
+Checkpoint saved to /content/drive/Othercomputers/我的笔记本电脑/GitHub/PKU-AI-Fundamentals-2026-Spring/Homework/HW04/checkpoints/zh2en.pt
